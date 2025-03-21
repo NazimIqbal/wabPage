@@ -30,6 +30,7 @@ const RegistrationForm = () => {
         e.preventDefault();
         console.log(formData);
     };
+// form
 
     return (
         <Container className="mt-5" style={{backgroundColor:'pink'}}>
